@@ -43,4 +43,4 @@ In terminal setting [1]:
 ```
 
 ###### Links:
-1. https://windowsterminalthemes.dev/
+1. https://windowsterminalthemes.dev
