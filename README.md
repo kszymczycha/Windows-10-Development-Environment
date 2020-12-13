@@ -3,6 +3,8 @@ Windows 10 Development Environment
 
 ## 1. Windows Terminal (Previev)
 
+![wsl](https://user-images.githubusercontent.com/30631373/102023851-7a36e380-3d8e-11eb-889d-ce80fe96e8fe.PNG)
+
 In terminal setting [1]:
 
 ```json
